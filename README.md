@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @duck-sec
 - 👀 I’m interested in security, and bread.
-
-- I have too many different repos, trying to centralise them all here.
+- I have too many different repos, I'm slowly trying to centralise them all here.
 - Any code posted here is provided for educational purposes as well as for use in legitimate, AUTHORISED, security testing ONLY.
 
 
