@@ -2,6 +2,7 @@
 - 👀 I’m interested in security, and bread.
 - I have too many different repos, I'm slowly trying to centralise them all here.
 - Any code posted here is provided for educational purposes as well as for use in legitimate, AUTHORISED, security testing ONLY.
+- All code is provied "as is" with no support. Please use carefully at your own risk.
 
 
 <!---
