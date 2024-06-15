@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @duck-sec 
+- 👋 Hi, I’m DuckSec.
 - 👀 I’m interested in security, and bread.
 - 🦆 I have too many different repos, I'm slowly trying to centralise them all here.
 - 🛑 Any code posted here is provided for educational purposes and for use in legitimate, AUTHORISED, security testing ONLY.
